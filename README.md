@@ -28,17 +28,206 @@
 
 <br clear="both"/>
 
+<h2 align="center">🛠 Tech Stack</h2>
 
-## Hi there, I'm Sanjay!, Thanks for visiting at my profile! 👋
+<p align="center">
 
-🚀 Data Analyst Intern | Python | SQL | Nunpy | Pandas | Advanced Excel | Data Visualization @PWS
-<!--
-🚀 Frontend Developer | 10+ Years of Experience | B | Javascript | Tech Panelist was@IBM & @ValueLabs
--->
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css,javascript"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Statistics-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge"/>
+
+</p>
+
+<h2 align="center">🛠 Tech Stack</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css,javascript"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Statistics-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge"/>
+
+</p>
+
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+
+<tr>
+<td width="50%">
+
+### 📊 Sales Dashboard
+
+Power BI Dashboard with KPI analysis, trend analysis and interactive filters.
+
+**Tech Stack**
+
+- Power BI
+- Excel
+- DAX
+
+</td>
+
+<td width="50%">
+
+### 📈 HR Analytics Dashboard
+
+Employee Attrition & Performance Dashboard.
+
+**Tech Stack**
+
+- Power BI
+- SQL
+- Excel
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🐍 Python Data Analysis
+
+EDA using Pandas, NumPy and Matplotlib.
+
+**Tech Stack**
+
+- Python
+- Pandas
+- NumPy
+
+</td>
+
+<td>
+
+### 🗄 SQL Analysis
+
+Business insights using SQL queries.
+
+**Tech Stack**
+
+- SQL
+- MySQL
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<h2 align="center">🏆 Achievements</h2>
+
+<p align="center">
+
+🏅 Data Analytics Projects
+
+🏅 Power BI Dashboards
+
+🏅 SQL Practice
+
+🏅 Python Automation
+
+🏅 Ex Front-End Developer
+
+</p>
+
+---
+
+<h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_TWITTER">
+<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x"/>
+</a>
+
+</p>
+
+---
+
+<h2 align="center">👀 Visitor Count</h2>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
+
+</p>
+
+
+<!-- ## Hi there, I'm Sanjay!, Thanks for visiting at my profile! 👋 
+
+🚀 Data Analyst Intern | Python | SQL | Nunpy | Pandas | Advanced Excel | Data Visualization @PWS-->
+
 <!--
 **SanjayTUnagar/SanjayTUnagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
+<!--
 Here are some ideas to get you started: 
 
 - 🔭 I’m currently working on Data Analytics projects using Python, SQL, Pandas, Power BI, and Excel.
@@ -49,4 +238,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: LinkedIn | Email | Portfolio | Github
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I transitioned from Front-End Development to Data Analytics because I enjoy turning raw data into meaningful business insights.
-
+-->
