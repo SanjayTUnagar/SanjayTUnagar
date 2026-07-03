@@ -162,19 +162,19 @@ Business insights using SQL queries.
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/sanjayunagar/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<a href="#">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sanjayunagar010@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_TWITTER">
+<a href="#">
 <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x"/>
 </a>
 
@@ -186,7 +186,7 @@ Business insights using SQL queries.
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=SanjayTUnagar&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
 
