@@ -56,7 +56,7 @@
 
 <p align="center">
 
-<img src="<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,vscode"/>"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,vscode"/>
 
 </p>
 
