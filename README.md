@@ -17,8 +17,8 @@
 
 <h1 align="center">👨‍💻 About Me</h1>
 
- 🔭 Currently building **Data Analytics & Business Intelligence Projects**
- 🌱 Learning **Machine Learning, Data Engineering & Cloud Analytics**
+- 🔭 Currently building **Data Analytics & Business Intelligence Projects**
+- 🌱 Learning **Machine Learning, Data Engineering & Cloud Analytics**
  👯 Open to collaborating on **Python, SQL, Power BI & Analytics Projects**
  🤔 Looking to contribute to **Open Source Data Projects**
  💬 Ask me about **Python, SQL, Excel, Power BI, Pandas, NumPy & Front-End Development** 
