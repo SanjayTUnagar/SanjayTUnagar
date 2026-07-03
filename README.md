@@ -56,7 +56,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,docker,fastapi,vscode,git,github"/>
+<img src="https://skillicons.dev/icons?i=chatgpt,agenticai,promptengineering,generativeai"/>
 
 </p>
 <p align="center">
