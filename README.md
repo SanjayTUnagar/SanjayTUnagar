@@ -1,3 +1,20 @@
+
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Hi,%20I'm%20YOUR_NAME!%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst;Ex+Front-End+Developer;Python+%7C+SQL+%7C+Power+BI;Turning+Data+Into+Insights;Always+Learning+New+Things+🚀" />
+  </a>
+</p>
+
+---
+
+
+
 ## Hi there, I'm Sanjay!, Thanks for visiting at my profile! 👋
 
 🚀 Data Analyst Intern | Python | SQL | Nunpy | Pandas | Advanced Excel | Data Visualization @PWS
