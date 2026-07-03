@@ -52,6 +52,35 @@
 
 </div>
 
+<h2 align="center">🛠 Tech Stack - Ex-FrondEnd Skills</h2>
+
+<p align="center">
+
+<img src="<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,vscode"/>"/>
+
+</p>
+
+<p align="center">
+<a href="https://getbootstrap.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</a>
+
+<a href="https://jquery.com/" target="_blank">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+</a>
+
+<a href="https://developers.google.com/search/docs" target="_blank">
+  <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</a>
+</p>
 
 
 
