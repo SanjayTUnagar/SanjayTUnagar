@@ -52,7 +52,7 @@
 
 </div>
 
-<h2 align="center">🛠 Tech Stack - Ex-FrondEnd Skills</h2>
+<h2 align="center">🛠 Ex-FrondEnd Tech Stack</h2>
 
 <p align="center">
 
