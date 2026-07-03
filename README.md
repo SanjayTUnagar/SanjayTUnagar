@@ -6,18 +6,16 @@
 
 <h2 align="center"> 👋 Thanks for visiting at my profile! 👋 </h2>
 
-<!-- Typing Animation -->
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst;Ex-Front-End+Developer+%7C+Web+Designer;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+Into+Insights;Always+Learning+New+Things+🚀" />
   </a>
 </p>
 
----
+<br clear="both"/>
 
 <h2 align="center">👨‍💻 About Me</h2>
-
-
 
 - 🔭 Currently building **Data Analytics & Business Intelligence Projects**
 - 🌱 Learning **Machine Learning, Data Engineering & Cloud Analytics**
@@ -233,7 +231,7 @@ Business insights using SQL queries.
 
 </p>
 
-<br clear="both"/>
+
 
 <p align="center">
 
