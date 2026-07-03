@@ -32,7 +32,7 @@
 
 
 
-<h2 align="center">🛠 Tech Stack</h2>
+<h2 align="center">🛠 Data & Analytics Stack Tech Stack</h2>
 
 <p align="center">
 
@@ -51,6 +51,24 @@
 <a href="https://en.wikipedia.org/wiki/Data_visualization" target="_blank"><img src="https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge"/></a>
 
 </div>
+
+<h2 align="center">🤖 AI & Agentic Stack</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,vscode,git,github,npm"/>
+
+</p>
+<p align="center">
+<a href="https://openai.com/" target="_blank"> <img src="https://img.shields.io/badge/Agentic%20AI-10A37F?style=for-the-badge&logo=openai&logoColor=white"/></a>
+<a href="https://platform.openai.com/docs/guides/prompt-engineering" target="_blank"><img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/></a>
+<a href="https://openai.com/" target="_blank"><img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+</a>
+<a href="https://chatgpt.com/" target="_blank"><img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/></a>
+</p>
+
+
+
 
 <h2 align="center">🛠 Ex-FrondEnd Tech Stack</h2>
 
