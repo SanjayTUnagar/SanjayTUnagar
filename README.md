@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Hi,%20I'm%20SANJAY_UNAGAR!%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p> 
 
-<h2 align="center"> 👋 Thanks for visiting at my profile! 👋 </h2>
+<h1 align="center"> 👋 Thanks for visiting at my profile! 👋 </h1>
 <br clear="both"/>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 
 
-<h2 align="center">🛠 Data & Analytics Stack Tech Stack</h2>
+<h1 align="center">🛠 Data & Analytics Stack Tech Stack</h1>
 
 <p align="center">
 
@@ -51,7 +51,7 @@
 </div>
 <br clear="both"/>
 
-<h2 align="center">🤖 AI & Agentic Stack</h2>
+<h1 align="center">🤖 AI & Agentic Stack</h1>
 <p align="center">
 <a href="https://openai.com/" target="_blank"> <img src="https://img.shields.io/badge/Agentic%20AI-10A37F?style=for-the-badge&logo=openai&logoColor=white"/></a>
 <a href="https://platform.openai.com/docs/guides/prompt-engineering" target="_blank"><img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/></a>
@@ -63,7 +63,7 @@
 <br clear="both"/>
 
 
-<h2 align="center">🛠 Ex-FrondEnd Tech Stack</h2>
+<h1 align="center">🛠 Ex-FrondEnd Tech Stack</h1>
 
 <p align="center">
 
@@ -103,7 +103,7 @@
 
 <br clear="both"/>
 
-<h2 align="center">📈 Contribution Graph</h2>
+<h1 align="center">📈 Contribution Graph</h1>
 
 <p align="center">
 
@@ -111,7 +111,7 @@
 
 </p>
 <br clear="both"/>
-<h2 align="center">🚀 Featured Projects</h2>
+<h1 align="center">🚀 Featured Projects</h1>
 
 <table>
 
@@ -181,7 +181,7 @@ Business insights using SQL queries.
 
 <br clear="both"/>
 
-<h2 align="center">🏆 Achievements</h2>
+<h1 align="center">🏆 Achievements</h1>
 
 <p align="center">
 
@@ -199,7 +199,7 @@ Business insights using SQL queries.
 
 <br clear="both"/>
 
-<h2 align="center">🌐 Connect with Me</h2>
+<h1 align="center">🌐 Connect with Me</h1>
 
 <p align="center">
 
@@ -223,7 +223,7 @@ Business insights using SQL queries.
 
 <br clear="both"/>
 
-<h2 align="center">👀 Visitor Count</h2>
+<h1 align="center">👀 Visitor Count</h1>
 
 <p align="center">
 
