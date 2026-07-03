@@ -1,5 +1,9 @@
 ## Hi there, I'm Sanjay!, Thanks for visiting at my profile! 👋
 
+🚀 Data Analyst Intern | Python | SQL | Nunpy | Pandas | Advanced Excel | Data Visualization @PWS
+<!--
+🚀 Frontend Developer | 10+ Years of Experience | B | Javascript | Tech Panelist was@IBM & @ValueLabs
+-->
 <!--
 **SanjayTUnagar/SanjayTUnagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
