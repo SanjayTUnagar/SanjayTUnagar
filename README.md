@@ -69,7 +69,6 @@
 
 <br clear="both"/>
 
-
 <h1 align="center">🛠 Ex-FrondEnd Tech Stack</h1>
 
 <p align="center">
