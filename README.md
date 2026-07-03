@@ -1,8 +1,8 @@
 
-<!-- Banner -->
+<!-- Banner
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Hi,%20I'm%20YOUR_NAME!%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
-</p>
+</p> -->
 
 <!-- Typing Animation -->
 <p align="center">
@@ -13,6 +13,20 @@
 
 ---
 
+<h2 align="center">👨‍💻 About Me</h2>
+
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQ0aGxqZXp0Zmlyb3R2eTNobnQ0NmVnaDF5eTVobzVqdWQ4aXU5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+
+- 🔭 Currently building **Data Analytics & Business Intelligence Projects**
+- 🌱 Learning **Machine Learning, Data Engineering & Cloud Analytics**
+- 👯 Open to collaborating on **Python, SQL, Power BI & Analytics Projects**
+- 🤔 Looking to contribute to **Open Source Data Projects**
+- 💬 Ask me about **Python, SQL, Excel, Power BI, Pandas, NumPy & Front-End Development**
+- 📫 Reach me at **YOUR_EMAIL**
+- 💼 Open to **Data Analyst Opportunities**
+- ⚡ Fun Fact: **I transitioned from Front-End Development to Data Analytics because I love transforming data into business insights.**
+
+<br clear="both"/>
 
 
 ## Hi there, I'm Sanjay!, Thanks for visiting at my profile! 👋
