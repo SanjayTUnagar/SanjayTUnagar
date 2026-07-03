@@ -5,7 +5,7 @@
 </p> 
 
 <h2 align="center"> 👋 Thanks for visiting at my profile! 👋 </h2>
-
+<br clear="both"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -15,7 +15,7 @@
 
 <br clear="both"/>
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h1 align="center">👨‍💻 About Me</h1>
 
 - 🔭 Currently building **Data Analytics & Business Intelligence Projects**
 - 🌱 Learning **Machine Learning, Data Engineering & Cloud Analytics**
