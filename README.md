@@ -51,14 +51,9 @@
 <a href="https://en.wikipedia.org/wiki/Data_visualization" target="_blank"><img src="https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge"/></a>
 
 </div>
+<br clear="both"/>
 
 <h2 align="center">🤖 AI & Agentic Stack</h2>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=chatgpt,agenticai,promptengineering,generativeai"/>
-
-</p>
 <p align="center">
 <a href="https://openai.com/" target="_blank"> <img src="https://img.shields.io/badge/Agentic%20AI-10A37F?style=for-the-badge&logo=openai&logoColor=white"/></a>
 <a href="https://platform.openai.com/docs/guides/prompt-engineering" target="_blank"><img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/></a>
@@ -67,7 +62,7 @@
 <a href="https://chatgpt.com/" target="_blank"><img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/></a>
 </p>
 
-
+<br clear="both"/>
 
 
 <h2 align="center">🛠 Ex-FrondEnd Tech Stack</h2>
@@ -100,7 +95,7 @@
 </a>
 </p>
 
-
+<br clear="both"/>
 
 <p align="center">
 
