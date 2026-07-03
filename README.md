@@ -17,14 +17,14 @@
 
 <h1 align="center">👨‍💻 About Me</h1>
 
-- 🔭 Currently building **Data Analytics & Business Intelligence Projects**
-- 🌱 Learning **Machine Learning, Data Engineering & Cloud Analytics**
-- 👯 Open to collaborating on **Python, SQL, Power BI & Analytics Projects**
-- 🤔 Looking to contribute to **Open Source Data Projects**
-- 💬 Ask me about **Python, SQL, Excel, Power BI, Pandas, NumPy & Front-End Development** 
-- 📫 Reach me at <a href="mailto:sanjayunagar010@gmail.com">sanjayunagar010@gmail.com</a>
-- 💼 Open to **Data Analyst Opportunities**
-- ⚡ Fun Fact: **I transitioned from Front-End Development to Data Analytics because I love transforming data into business insights.**
+ 🔭 Currently building **Data Analytics & Business Intelligence Projects**
+ 🌱 Learning **Machine Learning, Data Engineering & Cloud Analytics**
+ 👯 Open to collaborating on **Python, SQL, Power BI & Analytics Projects**
+ 🤔 Looking to contribute to **Open Source Data Projects**
+ 💬 Ask me about **Python, SQL, Excel, Power BI, Pandas, NumPy & Front-End Development** 
+ 📫 Reach me at <a href="mailto:sanjayunagar010@gmail.com">sanjayunagar010@gmail.com</a>
+ 💼 Open to **Data Analyst Opportunities**
+ ⚡ Fun Fact: **I transitioned from Front-End Development to Data Analytics because I love transforming data into business insights.**
 
 <br clear="both"/>
 
