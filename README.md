@@ -1,8 +1,10 @@
 
-<!-- Banner
+ Banner
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Hi,%20I'm%20YOUR_NAME!%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
-</p> -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Hi,%20I'm%20SANJAY UNAGAR!%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+</p> 
+
+ ## Hi there, I'm Sanjay!, Thanks for visiting at my profile! 👋 
 
 <!-- Typing Animation -->
 <p align="center">
