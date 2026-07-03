@@ -103,7 +103,7 @@
 
 </p>
 
----
+<br clear="both"/>
 
 <h2 align="center">📈 Contribution Graph</h2>
 
@@ -112,7 +112,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanjayTUnagar&theme=tokyo-night&hide_border=true"/>
 
 </p>
-
+<br clear="both"/>
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table>
@@ -181,7 +181,7 @@ Business insights using SQL queries.
 
 </table>
 
----
+<br clear="both"/>
 
 <h2 align="center">🏆 Achievements</h2>
 
@@ -199,7 +199,7 @@ Business insights using SQL queries.
 
 </p>
 
----
+<br clear="both"/>
 
 <h2 align="center">🌐 Connect with Me</h2>
 
@@ -223,7 +223,7 @@ Business insights using SQL queries.
 
 </p>
 
----
+<br clear="both"/>
 
 <h2 align="center">👀 Visitor Count</h2>
 
@@ -233,7 +233,7 @@ Business insights using SQL queries.
 
 </p>
 
----
+<br clear="both"/>
 
 <p align="center">
 
