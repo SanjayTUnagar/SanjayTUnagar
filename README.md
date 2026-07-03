@@ -7,7 +7,7 @@
 Here are some ideas to get you started: 
 
 - 🔭 I’m currently working on Data Analytics projects using Python, SQL, Pandas, Power BI, and Excel.
-- 🌱 I’m currently learning Advanced SQL, Machine Learning, Statistics, and Data Engineering fundamentals.
+- 🌱 I’m currently learning Advanced SQL, Machine Learning, Statistics, Generative AI, Agent AI and Prompt Engineering
 - 👯 I’m looking to collaborate on Data Analytics, Business Intelligence, Dashboard Development, and Open Source projects.
 - 🤔 I’m looking for help with Real-world Data Analytics projects.
 - 💬 Ask me about Python, SQL, Power BI, Excel, Pandas, NumPy, Data Cleaning, Data Visualization, and Ex-Front-End Development.
