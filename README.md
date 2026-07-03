@@ -17,7 +17,7 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQ0aGxqZXp0Zmlyb3R2eTNobnQ0NmVnaDF5eTVobzVqdWQ4aXU5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+
 
 - 🔭 Currently building **Data Analytics & Business Intelligence Projects**
 - 🌱 Learning **Machine Learning, Data Engineering & Cloud Analytics**
