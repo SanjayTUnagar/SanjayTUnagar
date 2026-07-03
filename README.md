@@ -58,7 +58,7 @@
 
 </p>
 
-<p align="center">
+<div align="center">
 
 <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/></a>
@@ -67,7 +67,7 @@
 <img src="https://img.shields.io/badge/Statistics-00599C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge"/>
 
-</p>
+</div>
 
 
 <p align="center">
