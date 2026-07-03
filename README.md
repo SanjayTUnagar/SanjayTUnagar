@@ -30,25 +30,7 @@
 
 <br clear="both"/>
 
-<h2 align="center">🛠 Tech Stack</h2>
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css,javascript"/>
-
-</p>
-
-<p align="center">
-
-<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/></a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/></a>
-<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" alt="Pandas"/></a>
-<a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" alt="NumPy"/></a>
-<a href="https://en.wikipedia.org/wiki/Statistics" target="_blank"><img src="https://img.shields.io/badge/Statistics-00599C?style=for-the-badge" alt="Statistics"/>
-</a>
-<a href="https://en.wikipedia.org/wiki/Data_visualization" target="_blank"><img src="https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge" alt="Data Visualization"/>
-</a>
-</p>
 
 <h2 align="center">🛠 Tech Stack</h2>
 
