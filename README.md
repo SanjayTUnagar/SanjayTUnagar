@@ -27,7 +27,7 @@
 
 💬 Ask me about **Python, SQL, Excel, Power BI, Pandas, NumPy & Front-End Development** 
 
-📫 Reach me at <a href="mailto:sanjayunagar010@gmail.com">sanjayunagar010@gmail.com</a>
+📫 Reach me at <a href="mailto:sanjayunagar010@gmail.com">sanjayunagar010@gmail.com</a> | <a href="#">LinkedIn </a> | <a href="#">Portfolio (Coming soon...) </a>
 
 💼 Open to **Data Analyst Opportunities**
 
