@@ -263,6 +263,9 @@ Collection of SQL projects focused on solving real-world business problems using
   
 <img width="420" alt="Data_Analyst_Certificate" src="https://github.com/user-attachments/assets/07ad5c7b-41c4-4475-ba7a-3ffca3de3133" />
  <!-- <img src="certificates/Excel_Dashboard_Certificate.jpg" width="420" alt="Excel Dashboard for Beginners Certificate"/> -->
+
+ <img width="420" alt="IBM_Z_Operational_Log_Data_Analytics" src="https://github.com/user-attachments/assets/55f7d981-6571-4ace-9752-73261b0c88c4" />
+
 </p>
 
 <div align="center">
