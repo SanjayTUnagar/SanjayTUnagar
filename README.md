@@ -226,13 +226,7 @@ Business insights using SQL queries.
 <tr>
 <td width="50%">
 
-### 📊 Sales Dashboard
-
-Power BI Dashboard with KPI analysis, trend analysis and interactive filters.
-
-**Tech Stack**
-
-- 📊 Data Analysis Fundamentals
+📊 Data Analysis Fundamentals
 
 📈 Data Visualization
 
@@ -245,8 +239,6 @@ Power BI Dashboard with KPI analysis, trend analysis and interactive filters.
 </td>
 
 <td width="50%">
-
-**Tech Stack**
 
 📉 Business Intelligence Basics
 
@@ -261,28 +253,6 @@ Power BI Dashboard with KPI analysis, trend analysis and interactive filters.
 </tr>
 </table>
 
-
-
-
-📊 Data Analysis Fundamentals
-
-📈 Data Visualization
-
-📋 Interactive Excel Dashboards
-
-📑 Pivot Tables & Pivot Charts
-
-🎯 KPI Reporting
-
-📉 Business Intelligence Basics
-
-🗄 SQL Fundamentals
-
-📌 Data Cleaning & Preparation
-
-💡 Analytical & Problem-Solving Skills
-
----
 
 ### 🌟 Achievement Highlights
 
