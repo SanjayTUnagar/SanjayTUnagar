@@ -196,7 +196,7 @@ Business insights using SQL queries.
 <tr>
 <td width="50%">
 
-### 📊 Certificate of Excel Dashboard by Microsoft | SimliLearn
+### 🏆 Certificate of Excel Dashboard by Microsoft | SimliLearn
 
 <br clear="both"/>
 
@@ -211,7 +211,7 @@ Business insights using SQL queries.
 
 <td>
 
-### 📊 Certificate of Data Analyst by Microsoft | SimliLearn
+### 🏆 Certificate of Data Analyst by Microsoft | SimliLearn
 
 <br clear="both"/>
 
