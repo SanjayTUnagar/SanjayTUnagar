@@ -404,8 +404,9 @@ Cleaning, transforming, validating, and preparing datasets before analysis.
 <tr>
 
 <td colspan="2">
+<br clear="both"/>
 
-### 💡 Analytical & Problem-Solving Skills
+<h1 align="center">💡 Analytical & Problem-Solving Skills</h1>
 
 Applying analytical thinking to solve business problems and transform raw data into actionable insights.
 
