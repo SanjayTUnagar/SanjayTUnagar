@@ -216,6 +216,79 @@ Business insights using SQL queries.
 <br clear="both"/>
 <h1 align="center"> 🚀 Key Skills Gained</h1>
 
+<table>
+
+<tr>
+<td width="50%">
+
+<table>
+
+<tr>
+<td width="50%">
+
+### 📊 Sales Dashboard
+
+Power BI Dashboard with KPI analysis, trend analysis and interactive filters.
+
+**Tech Stack**
+
+- Power BI
+- Excel
+- DAX
+
+</td>
+
+<td width="50%">
+
+
+
+**Tech Stack**
+
+- Power BI
+- SQL
+- Excel
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 📊 Sales Dashboard
+
+Power BI Dashboard with KPI analysis, trend analysis and interactive filters.
+
+**Tech Stack**
+
+- Power BI
+- Excel
+- DAX
+
+</td>
+
+<td width="50%">
+
+**Tech Stack**
+
+- Power BI
+- SQL
+- Excel
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+
+
+
+
+
 📊 Data Analysis Fundamentals
 
 📈 Data Visualization
