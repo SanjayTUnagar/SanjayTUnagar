@@ -219,7 +219,7 @@ Business insights using SQL queries.
 <table>
 
 <tr>
-<td width="50%">
+<td width="100%">
 
 <table>
 
