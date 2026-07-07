@@ -348,43 +348,47 @@ Business insights using SQL queries.
 
 <br clear="both"/>
 
-<!-- ===================================================== -->
-<!--              🚀 KEY SKILLS GAINED                     -->
-<!-- ===================================================== -->
+<!-- ========================================================= -->
+<!--                    🚀 KEY SKILLS GAINED                   -->
+<!-- ========================================================= -->
 
-<h1 align="center">🚀 Key Skills Gained</h1>
+<h2 align="center">
+🚀 Key Skills Gained
+</h2>
 
 <p align="center">
-Building a strong foundation in <b>Data Analytics</b>, <b>Business Intelligence</b>, and <b>Data Visualization</b> through hands-on projects and industry-recognized certifications.
+<i>Building a strong foundation in Data Analytics, Business Intelligence, SQL, Excel, and Data Visualization.</i>
 </p>
 
-<table align="center">
+<table>
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📊 Data Analysis Fundamentals
-Understanding data collection, transformation, analysis, and interpretation for informed decision-making.
 
-**Skills**
-- 📈 Data Analysis
-- 📋 Data Exploration
-- 📊 Statistical Thinking
-- 🎯 Business Insights
+Understanding data structures, analysis techniques, and extracting meaningful business insights.
+
+**Tech Stack**
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-blue?style=flat-square)
+![Analytics](https://img.shields.io/badge/Data%20Analysis-success?style=flat-square)
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📉 Data Visualization
-Creating impactful dashboards and reports that communicate business performance effectively.
+### 📈 Data Visualization
 
-**Skills**
-- 📊 Charts & Graphs
-- 📈 Dashboard Design
-- 📌 KPI Reporting
-- 📉 Storytelling with Data
+Designing dashboards and visual reports that communicate insights effectively.
+
+**Tech Stack**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Charts](https://img.shields.io/badge/Charts-orange?style=flat-square)
+![Reporting](https://img.shields.io/badge/Reporting-blueviolet?style=flat-square)
 
 </td>
 
@@ -392,31 +396,34 @@ Creating impactful dashboards and reports that communicate business performance 
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📄 Excel Analytics
+### 📑 Interactive Excel Dashboards
 
-Building professional Excel dashboards and automating reports using advanced Excel features.
+Creating professional dashboards using Pivot Tables, Charts, Slicers, and formulas.
 
 **Skills**
-- 📑 Pivot Tables
-- 📊 Pivot Charts
-- ⚡ Power Query
-- 📅 Interactive Dashboards
+
+- 📊 Pivot Tables
+- 📉 Pivot Charts
+- 📅 Slicers
+- ⚡ Advanced Excel
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🗄 SQL Fundamentals
 
-Managing relational databases and extracting business insights using SQL.
+Writing SQL queries to retrieve, filter, join, and analyze business data.
 
 **Skills**
-- 🔍 Data Retrieval
-- 🔗 Joins
-- 📊 Aggregate Functions
-- ⚡ Query Optimization
+
+- SELECT
+- WHERE
+- GROUP BY
+- JOIN
+- Aggregate Functions
 
 </td>
 
@@ -424,31 +431,33 @@ Managing relational databases and extracting business insights using SQL.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧹 Data Cleaning & Preparation
+### 📌 KPI Reporting
 
-Preparing raw datasets for analysis using industry-standard data cleaning techniques.
+Building KPI dashboards for performance tracking and business monitoring.
 
 **Skills**
-- 🧹 Missing Values
-- 🔄 Data Transformation
-- ✅ Data Validation
-- 📦 Data Preparation
+
+- KPI Cards
+- Trend Analysis
+- Business Metrics
+- Dashboard Design
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💡 Business Intelligence
+### 🧹 Data Cleaning & Preparation
 
-Learning modern BI concepts to transform data into actionable insights.
+Cleaning, transforming, validating, and preparing datasets before analysis.
 
 **Skills**
-- 📊 Power BI
-- 📈 KPI Dashboards
-- 📉 Business Reporting
-- 🎯 Decision Support
+
+- Missing Values
+- Duplicate Removal
+- Data Transformation
+- Formatting
 
 </td>
 
@@ -458,13 +467,13 @@ Learning modern BI concepts to transform data into actionable insights.
 
 <td colspan="2">
 
-### 🏆 Analytical & Problem-Solving Skills
+### 💡 Analytical & Problem-Solving Skills
 
-- 💡 Critical Thinking
-- 🧠 Problem Solving
-- 📊 Business Analysis
-- 🚀 Decision Making
-- 🤝 Collaboration
+Applying analytical thinking to solve business problems and transform raw data into actionable insights.
+
+![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-success?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-blue?style=for-the-badge)
+![Business Analysis](https://img.shields.io/badge/Business%20Analysis-orange?style=for-the-badge)
 
 </td>
 
@@ -472,7 +481,7 @@ Learning modern BI concepts to transform data into actionable insights.
 
 </table>
 
-<br>
+---
 
 <!--<h1 align="center"> 🚀 Key Skills Gained</h1>
 
