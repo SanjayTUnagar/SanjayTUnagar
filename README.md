@@ -415,14 +415,12 @@ Applying analytical thinking to solve business problems and transform raw data i
 </tr>
 
 </table>
-
+<br clear="both"/>
 <!-- ========================================================= -->
 <!--                🌟 ACHIEVEMENT HIGHLIGHTS                  -->
 <!-- ========================================================= -->
 
-<h1 align="center">
-🌟 Achievement Highlights
-</h1>
+<h1 align="center"> 🌟 Achievement Highlights</h1>
 
 <table>
 
@@ -471,112 +469,6 @@ Continuously improving technical expertise through certifications, projects, and
 </tr>
 
 </table>
-
----
-
-<!--<h1 align="center"> 🚀 Key Skills Gained</h1>
-
-<table>
-
-<tr>
-<td width="50%">
-
-📊 Data Analysis Fundamentals
-
-📈 Data Visualization
-
-📋 Interactive Excel Dashboards
-
-📑 Pivot Tables & Pivot Charts
-
-🎯 KPI Reporting
-
-</td>
-
-<td width="50%">
-
-📉 Business Intelligence Basics
-
-🗄 SQL Fundamentals
-
-📌 Data Cleaning & Preparation
-
-💡 Analytical & Problem-Solving Skills
-
-</td>
-
-</tr>
-</table>
-
-
-### 🌟 Achievement Highlights
-
-✔ Successfully completed Microsoft-powered SkillUp learning programs.
-
-✔ Strengthened practical skills in **Excel, Data Analytics, Dashboard Design, and Reporting**.
-
-✔ Built a solid foundation for real-world **Business Intelligence and Data Analysis** projects.
-
-✔ Continuously enhancing technical expertise through industry-recognized certifications.
-
-
--->
-
-
-
-
-
-
-<!--
-<h1 align="center">🏆 Certifications & Achievements</h1>
-
-<p align="center">
-
-<table>
-
-<tr>
-<td width="50%">
-
-### 🏆 Certificate of Excel Dashboard by Microsoft | SimliLearn
-
-<br clear="both"/>
-
-<p align="center">
-
-<img width="1754" height="1241" alt="Excel_Dashborad_Certificate" src="https://github.com/user-attachments/assets/086af81b-6ccf-4a77-965e-1caf1ea1e118" />
-
-</p>
-
-
-</td> 
-
-<td>
-
-### 🏆 Certificate of Data Analyst by Microsoft | SimliLearn
-
-<br clear="both"/>
-
-<p align="center">
-
-<img width="1754" height="1241" alt="Data_Analyst_Certificate" src="https://github.com/user-attachments/assets/07ad5c7b-41c4-4475-ba7a-3ffca3de3133" />
-
-</p>
-
-
-</td> 
-</tr>
-
-</table> -->
-
-<!--🏅 Data Analytics Projects
-
-🏅 Power BI Dashboards
-
-🏅 SQL Practice
-
- 🏅 Python Automation -->
-
-<!--🏅 Ex Front-End Developer -->
 
 </p>
 
