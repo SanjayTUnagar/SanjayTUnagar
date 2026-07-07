@@ -222,7 +222,9 @@ Power BI Dashboard with KPI analysis, trend analysis and interactive filters.
 
 🚀 Presenting data in a clear and impactful way 
 
+This achievement is another step forward in my journey toward becoming a skilled Data Analyst. I’m excited to continue learning, applying these skills to real-world projects, and growing professionally.
 
+A big thank you to Microsoft, Simplilearn, and SkillUp for providing this valuable learning opportunity.
 </td> 
 
 <td>
