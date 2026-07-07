@@ -187,6 +187,65 @@ Business insights using SQL queries.
 
 <br clear="both"/>
 
+
+## 🏆 Certifications & Achievements
+
+<p align="center">
+  <img src="certificates/Data_Analyst_Certificate.jpg" width="420" alt="Data Analyst 101 Certificate"/>
+  &nbsp;&nbsp;
+  <img src="certificates/Excel_Dashboard_Certificate.jpg" width="420" alt="Excel Dashboard for Beginners Certificate"/>
+</p>
+
+<div align="center">
+
+![Microsoft](https://img.shields.io/badge/Microsoft-Learning-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Simplilearn](https://img.shields.io/badge/Simplilearn-SkillUp-orange?style=for-the-badge)
+![Certified](https://img.shields.io/badge/Status-Certified-success?style=for-the-badge)
+
+</div>
+
+### 📜 Microsoft SkillUp Certifications
+
+| 🎓 Certification | 📅 Completed | 📝 Description |
+|-----------------|-------------|----------------|
+| **Data Analyst 101** | **05 July 2026** | Successfully completed the Microsoft SkillUp Data Analyst 101 program, building a strong foundation in **Data Analytics, Data Visualization, Business Intelligence, Excel, SQL, and analytical thinking**. |
+| **Excel Dashboard for Beginners** | **04 July 2026** | Completed hands-on training in creating **interactive Excel dashboards**, including charts, PivotTables, slicers, KPIs, conditional formatting, and data-driven reporting techniques. |
+
+---
+
+### 🚀 Key Skills Gained
+
+- 📊 Data Analysis Fundamentals
+- 📈 Data Visualization
+- 📋 Interactive Excel Dashboards
+- 📑 Pivot Tables & Pivot Charts
+- 🎯 KPI Reporting
+- 📉 Business Intelligence Basics
+- 🗄 SQL Fundamentals
+- 📌 Data Cleaning & Preparation
+- 💡 Analytical & Problem-Solving Skills
+
+---
+
+### 🌟 Achievement Highlights
+
+✔ Successfully completed Microsoft-powered SkillUp learning programs.
+
+✔ Strengthened practical skills in **Excel, Data Analytics, Dashboard Design, and Reporting**.
+
+✔ Built a solid foundation for real-world **Business Intelligence and Data Analysis** projects.
+
+✔ Continuously enhancing technical expertise through industry-recognized certifications.
+
+
+
+
+
+
+
+
+
+<!--
 <h1 align="center">🏆 Certifications & Achievements</h1>
 
 <p align="center">
@@ -225,7 +284,7 @@ Business insights using SQL queries.
 </td> 
 </tr>
 
-</table>
+</table> -->
 
 <!--🏅 Data Analytics Projects
 
