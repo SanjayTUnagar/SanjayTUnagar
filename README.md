@@ -229,33 +229,43 @@ A big thank you to Microsoft, Simplilearn, and SkillUp for providing this valuab
 
 <td>
 
-### 📊 Certificate of Excel Dashboard by Microsoft | SimliLearn
+### 📊 Certificate of Data Analyst by Microsoft | SimliLearn
 
 <br clear="both"/>
 
 <p align="center">
 
-<img width="1754" height="1241" alt="Excel_Dashborad_Certificate" src="https://github.com/user-attachments/assets/086af81b-6ccf-4a77-965e-1caf1ea1e118" />
+<img width="1754" height="1241" alt="Data_Analyst_Certificate" src="https://github.com/user-attachments/assets/07ad5c7b-41c4-4475-ba7a-3ffca3de3133" />
 
 </p>
 
 Power BI Dashboard with KPI analysis, trend analysis and interactive filters.
 
-**Tech Stack**
+**Key Learning Highlights:**
 
-📈 Building interactive Excel dashboards 
+📊 Data Analytics Fundamentals
 
-📊 Creating insightful charts and visualizations
+📈 Data Collection & Data Cleaning
 
-📌 Using Pivot Tables & Pivot Charts effectively 
+📉 Exploratory Data Analysis (EDA)
 
-🎯 Applying Slicers and Filters for dynamic reporting 
+📋 Data Visualization & Reporting
 
-📉 Data analysis and business reporting 
+💡 Business Insights from Data
 
-🚀 Presenting data in a clear and impactful way 
+📑 Data Interpretation & Decision Making
 
+🧮 Introduction to Excel, SQL, and Power BI
 
+📌 Analytical Thinking & Problem Solving
+
+🚀 Real-World Data Analytics Concepts
+
+🎯 Best Practices in Data Analysis
+
+I'm committed to continuous learning and look forward to applying these skills in real-world data analytics projects.
+
+Thank you, Microsoft and Simplilearn SkillUp, for this valuable learning opportunity.
 </td> 
 </tr>
 
