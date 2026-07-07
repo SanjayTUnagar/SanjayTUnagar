@@ -120,25 +120,116 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/Sales-Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Sales-Dashboard&theme=github_dark"/>
-</a>
+<table>
+<tr>
 
-<a href="https://github.com/YOUR_USERNAME/HR-Analytics-Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=HR-Analytics-Dashboard&theme=github_dark"/>
-</a>
+<td width="50%" valign="top">
 
-<a href="https://github.com/YOUR_USERNAME/Python-Data-Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Python-Data-Analysis&theme=github_dark"/>
-</a>
+### 📊 Sales Dashboard
 
-<a href="https://github.com/YOUR_USERNAME/SQL-Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=SQL-Analysis&theme=github_dark"/>
-</a>
+Power BI dashboard designed to monitor **Sales KPIs, Revenue, Profit, Customer Insights, and Trend Analysis** through interactive visualizations.
 
+**✨ Highlights**
+- 📈 KPI Dashboard
+- 📊 Sales Trend Analysis
+- 🎯 Interactive Filters
+- 📅 Time Intelligence
+
+**🛠 Tech Stack**
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge"/>
 </p>
+
+🔗 **Repository:** [View Project](YOUR_REPOSITORY_LINK)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📉 HR Analytics Dashboard
+
+Employee Attrition Dashboard providing insights into workforce performance, retention, salary analysis, and employee demographics.
+
+**✨ Highlights**
+- 👨‍💼 Employee Insights
+- 📊 Attrition Analysis
+- 💰 Salary Breakdown
+- 📍 Department Analytics
+
+**🛠 Tech Stack**
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+🔗 **Repository:** [View Project](YOUR_REPOSITORY_LINK)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🐍 Python Data Analysis
+
+Exploratory Data Analysis (EDA) project using Python to clean, transform, visualize, and extract meaningful business insights.
+
+**✨ Highlights**
+- 📊 Data Cleaning
+- 📈 Exploratory Analysis
+- 📉 Visualizations
+- 📑 Business Insights
+
+**🛠 Tech Stack**
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+</p>
+
+🔗 **Repository:** [View Project](YOUR_REPOSITORY_LINK)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🗄 SQL Business Analysis
+
+Collection of SQL projects focused on solving real-world business problems using advanced SQL queries and performance optimization.
+
+**✨ Highlights**
+- 📋 Complex Queries
+- 📊 KPI Reporting
+- ⚡ Query Optimization
+- 📈 Business Insights
+
+**🛠 Tech Stack**
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+</p>
+
+🔗 **Repository:** [View Project](YOUR_REPOSITORY_LINK)
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 
 
