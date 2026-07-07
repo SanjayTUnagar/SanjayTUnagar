@@ -187,8 +187,7 @@ Business insights using SQL queries.
 
 <br clear="both"/>
 
-
-## 🏆 Certifications & Achievements
+<h1 align="center"> 🏆 Certifications & Achievements</h1>
 
 <p align="center">
  <!-- <img src="certificates/Data_Analyst_Certificate.jpg" width="420" alt="Data Analyst 101 Certificate"/> -->
