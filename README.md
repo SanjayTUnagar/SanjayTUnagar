@@ -45,15 +45,15 @@
 
 </p>
 <div align="center">
-<a href="https://en.wikipedia.org/wiki/Data_analysis" target="_blank"><img src="https://img.shields.io/badge/Data%20Analyst-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Analyst"/></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/></a>
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/></a>
-<a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/></a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/></a>
-<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/></a>
-<a href="https://en.wikipedia.org/wiki/Statistics" target="_blank"><img src="https://img.shields.io/badge/Statistics-00599C?style=for-the-badge"/></a>
-<a href="https://en.wikipedia.org/wiki/Data_visualization" target="_blank"><img src="https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge"/></a>
+<a href="https://en.wikipedia.org/wiki/Data_analysis"><img src="https://img.shields.io/badge/Data%20Analyst-0A66C2?style=for-the-badge&logo=databricks&logoColor=white"/></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
+<a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></a>
+<a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/></a>
+<a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/></a>
+<a href="https://en.wikipedia.org/wiki/Statistics"><img src="https://img.shields.io/badge/Statistics-4B8BBE?style=for-the-badge&logo=googlesheets&logoColor=white"/></a>
+<a href="https://en.wikipedia.org/wiki/Data_visualization"><img src="https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge&logo=tableau&logoColor=white"/></a>
 
 </div>
 <br clear="both"/>
