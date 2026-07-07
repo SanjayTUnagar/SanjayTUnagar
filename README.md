@@ -194,13 +194,14 @@ Business insights using SQL queries.
 <table>
 
 <tr>
-<td width="50%">
+<td width="100%">
 
 ### 📊 Certificate of Excel Dashboard by Microsoft | SimliLearn
 
 <br clear="both"/>
 
 <p align="center">
+<img width="1551" height="1070" alt="IBM_Z_Operational_Log_Data_Analytics" src="https://github.com/user-attachments/assets/3edaed29-0bfc-4f4b-9d32-0ae74bc6d9db" />
 
 <img src="https://streak-stats.demolab.com?user=SanjayTUnagar&theme=tokyonight&hide_border=true"/>
 
