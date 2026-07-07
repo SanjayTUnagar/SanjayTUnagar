@@ -219,12 +219,7 @@ Business insights using SQL queries.
 <table>
 
 <tr>
-<td width="100%">
-
-<table>
-
-<tr>
-<td width="100%">
+<td width="50%">
 
 📊 Data Analysis Fundamentals
 
@@ -238,7 +233,7 @@ Business insights using SQL queries.
 
 </td>
 
-<td width="100%">
+<td width="50%">
 
 📉 Business Intelligence Basics
 
