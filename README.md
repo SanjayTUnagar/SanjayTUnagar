@@ -118,7 +118,7 @@
 </p>
 <br clear="both"/>
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h1 align="center">🚀 Featured Projects</h1>
 
 <div align="center">
 
@@ -132,10 +132,14 @@
 Power BI dashboard designed to monitor **Sales KPIs, Revenue, Profit, Customer Insights, and Trend Analysis** through interactive visualizations.
 
 **✨ Highlights**
-- 📈 KPI Dashboard
-- 📊 Sales Trend Analysis
-- 🎯 Interactive Filters
-- 📅 Time Intelligence
+📈 KPI Dashboard
+
+📊 Sales Trend Analysis
+
+🎯 Interactive Filters
+
+📅 Time Intelligence
+ 
 
 **🛠 Tech Stack**
 
@@ -156,10 +160,13 @@ Power BI dashboard designed to monitor **Sales KPIs, Revenue, Profit, Customer I
 Employee Attrition Dashboard providing insights into workforce performance, retention, salary analysis, and employee demographics.
 
 **✨ Highlights**
-- 👨‍💼 Employee Insights
-- 📊 Attrition Analysis
-- 💰 Salary Breakdown
-- 📍 Department Analytics
+👨‍💼 Employee Insights
+
+📊 Attrition Analysis
+
+💰 Salary Breakdown
+
+📍 Department Analytics
 
 **🛠 Tech Stack**
 
