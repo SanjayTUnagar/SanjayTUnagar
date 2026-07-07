@@ -37,7 +37,7 @@
 
 
 
-<h1 align="center">🛠 Data & Analytics Stack Tech Stack</h1>
+<h1 align="center">🛠 Data & Analytics Tech Stack</h1>
 
 <p align="center">
 
