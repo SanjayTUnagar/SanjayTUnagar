@@ -206,25 +206,7 @@ Business insights using SQL queries.
 
 </p>
 
-Power BI Dashboard with KPI analysis, trend analysis and interactive filters.
 
-**Tech Stack**
-
-📈 Building interactive Excel dashboards 
-
-📊 Creating insightful charts and visualizations
-
-📌 Using Pivot Tables & Pivot Charts effectively 
-
-🎯 Applying Slicers and Filters for dynamic reporting 
-
-📉 Data analysis and business reporting 
-
-🚀 Presenting data in a clear and impactful way 
-
-This achievement is another step forward in my journey toward becoming a skilled Data Analyst. I’m excited to continue learning, applying these skills to real-world projects, and growing professionally.
-
-A big thank you to Microsoft, Simplilearn, and SkillUp for providing this valuable learning opportunity.
 </td> 
 
 <td>
@@ -239,33 +221,7 @@ A big thank you to Microsoft, Simplilearn, and SkillUp for providing this valuab
 
 </p>
 
-Power BI Dashboard with KPI analysis, trend analysis and interactive filters.
 
-**Key Learning Highlights:**
-
-📊 Data Analytics Fundamentals
-
-📈 Data Collection & Data Cleaning
-
-📉 Exploratory Data Analysis (EDA)
-
-📋 Data Visualization & Reporting
-
-💡 Business Insights from Data
-
-📑 Data Interpretation & Decision Making
-
-🧮 Introduction to Excel, SQL, and Power BI
-
-📌 Analytical Thinking & Problem Solving
-
-🚀 Real-World Data Analytics Concepts
-
-🎯 Best Practices in Data Analysis
-
-I'm committed to continuous learning and look forward to applying these skills in real-world data analytics projects.
-
-Thank you, Microsoft and Simplilearn SkillUp, for this valuable learning opportunity.
 </td> 
 </tr>
 
