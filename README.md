@@ -201,7 +201,8 @@ Business insights using SQL queries.
 Power BI Dashboard with KPI analysis, trend analysis and interactive filters.
 
 **Tech Stack**
-
+🔭 Currently building **Data Analytics & Business Intelligence Projects**
+🔭 Currently building **Data Analytics & Business Intelligence Projects**
 📈 Building interactive Excel dashboards
 📊 Creating insightful charts and visualizations
 📌 Using Pivot Tables & Pivot Charts effectively
