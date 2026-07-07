@@ -202,6 +202,15 @@ Power BI Dashboard with KPI analysis, trend analysis and interactive filters.
 
 **Tech Stack**
 
+🔭 Currently building **Data Analytics & Business Intelligence Projects**
+
+🌱 Learning **Machine Learning, Data Engineering & Cloud Analytics**
+
+👯 Open to collaborating on **Python, SQL, Power BI & Analytics Projects**
+
+🤔 Looking to contribute to **Open Source Data Projects**
+
+
 📈 Building interactive Excel dashboards 
 📊 Creating insightful charts and visualizations 
 📌 Using Pivot Tables & Pivot Charts effectively 
