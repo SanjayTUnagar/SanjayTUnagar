@@ -227,7 +227,7 @@ Power BI Dashboard with KPI analysis, trend analysis and interactive filters.
 </tr>
 
 <tr>
-<td width="50%">
+<td>
 
 ### 📊 Certificate of Excel Dashboard by Microsoft | SimliLearn
 
