@@ -481,6 +481,62 @@ Applying analytical thinking to solve business problems and transform raw data i
 
 </table>
 
+<!-- ========================================================= -->
+<!--                🌟 ACHIEVEMENT HIGHLIGHTS                  -->
+<!-- ========================================================= -->
+
+<h2 align="center">
+🌟 Achievement Highlights
+</h2>
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+## 🏅
+
+### Microsoft-Powered Learning
+
+Successfully completed Microsoft SkillUp learning programs.
+
+</td>
+
+<td align="center" width="25%">
+
+## 📈
+
+### Strengthened Practical Skills
+
+Excel, SQL, Power BI, Dashboard Design, Reporting & Data Analytics.
+
+</td>
+
+<td align="center" width="25%">
+
+## 🚀
+
+### Real-World Foundation
+
+Built practical knowledge through hands-on Business Intelligence and Analytics projects.
+
+</td>
+
+<td align="center" width="25%">
+
+## ⭐
+
+### Continuous Growth
+
+Continuously improving technical expertise through certifications, projects, and real-world practice.
+
+</td>
+
+</tr>
+
+</table>
+
 ---
 
 <!--<h1 align="center"> 🚀 Key Skills Gained</h1>
