@@ -202,12 +202,12 @@ Power BI Dashboard with KPI analysis, trend analysis and interactive filters.
 
 **Tech Stack**
 
- 📈 Building interactive Excel dashboards
- 📊 Creating insightful charts and visualizations
- 📌 Using Pivot Tables & Pivot Charts effectively
- 🎯 Applying Slicers and Filters for dynamic reporting
- 📉 Data analysis and business reporting
- 🚀 Presenting data in a clear and impactful way
+📈 Building interactive Excel dashboards
+📊 Creating insightful charts and visualizations
+📌 Using Pivot Tables & Pivot Charts effectively
+🎯 Applying Slicers and Filters for dynamic reporting
+📉 Data analysis and business reporting
+🚀 Presenting data in a clear and impactful way
 
 </td> 
 </tr>
