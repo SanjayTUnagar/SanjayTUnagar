@@ -260,7 +260,7 @@ Collection of SQL projects focused on solving real-world business problems using
 <p align="center">
  <!-- <img src="certificates/Data_Analyst_Certificate.jpg" width="420" alt="Data Analyst 101 Certificate"/> -->
  <img alt="Excel_Dashborad_Certificate" src="https://github.com/user-attachments/assets/086af81b-6ccf-4a77-965e-1caf1ea1e118" width="420" />
-  &nbsp;&nbsp;
+  
 <img width="420" alt="Data_Analyst_Certificate" src="https://github.com/user-attachments/assets/07ad5c7b-41c4-4475-ba7a-3ffca3de3133" />
  <!-- <img src="certificates/Excel_Dashboard_Certificate.jpg" width="420" alt="Excel Dashboard for Beginners Certificate"/> -->
 </p>
