@@ -232,39 +232,15 @@ Power BI Dashboard with KPI analysis, trend analysis and interactive filters.
 
 **Tech Stack**
 
-- Power BI
-- Excel
-- DAX
+- 📊 Data Analysis Fundamentals
 
-</td>
+📈 Data Visualization
 
-<td width="50%">
+📋 Interactive Excel Dashboards
 
+📑 Pivot Tables & Pivot Charts
 
-
-**Tech Stack**
-
-- Power BI
-- SQL
-- Excel
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### 📊 Sales Dashboard
-
-Power BI Dashboard with KPI analysis, trend analysis and interactive filters.
-
-**Tech Stack**
-
-- Power BI
-- Excel
-- DAX
+🎯 KPI Reporting
 
 </td>
 
@@ -272,19 +248,18 @@ Power BI Dashboard with KPI analysis, trend analysis and interactive filters.
 
 **Tech Stack**
 
-- Power BI
-- SQL
-- Excel
+📉 Business Intelligence Basics
+
+🗄 SQL Fundamentals
+
+📌 Data Cleaning & Preparation
+
+💡 Analytical & Problem-Solving Skills
 
 </td>
 
 </tr>
-
-<tr>
-
-<td>
-
-
+</table>
 
 
 
