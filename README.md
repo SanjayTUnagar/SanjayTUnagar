@@ -403,7 +403,7 @@ Cleaning, transforming, validating, and preparing datasets before analysis.
 
 <tr>
 
-<td colspan="2">
+<td colspan="2" align="center">
 <br clear="both"/>
 
 <h1 align="center">💡 Analytical & Problem-Solving Skills</h1>
