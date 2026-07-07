@@ -191,10 +191,13 @@ Employee Attrition Dashboard providing insights into workforce performance, rete
 Exploratory Data Analysis (EDA) project using Python to clean, transform, visualize, and extract meaningful business insights.
 
 **✨ Highlights**
-- 📊 Data Cleaning
-- 📈 Exploratory Analysis
-- 📉 Visualizations
-- 📑 Business Insights
+📊 Data Cleaning
+
+📈 Exploratory Analysis
+
+📉 Visualizations
+
+📑 Business Insights
 
 **🛠 Tech Stack**
 
@@ -216,10 +219,10 @@ Exploratory Data Analysis (EDA) project using Python to clean, transform, visual
 Collection of SQL projects focused on solving real-world business problems using advanced SQL queries and performance optimization.
 
 **✨ Highlights**
-- 📋 Complex Queries
-- 📊 KPI Reporting
-- ⚡ Query Optimization
-- 📈 Business Insights
+📋 Complex Queries
+📊 KPI Reporting
+⚡ Query Optimization
+📈 Business Insights
 
 **🛠 Tech Stack**
 
