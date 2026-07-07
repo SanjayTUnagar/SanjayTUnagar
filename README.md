@@ -340,8 +340,11 @@ Creating professional dashboards using Pivot Tables, Charts, Slicers, and formul
 **Skills**
 
 📊 Pivot Tables
+
 📉 Pivot Charts
+
 📅 Slicers
+
 ⚡ Advanced Excel
 
 </td>
