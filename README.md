@@ -198,18 +198,17 @@ Business insights using SQL queries.
 
 ### 📊 Certificate of Excel Dashboard by Microsoft | SimliLearn
 
+<br clear="both"/>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=SanjayTUnagar&theme=tokyonight&hide_border=true"/>
+
+</p>
+
 Power BI Dashboard with KPI analysis, trend analysis and interactive filters.
 
 **Tech Stack**
-
-🔭 Currently building **Data Analytics & Business Intelligence Projects**
-
-🌱 Learning **Machine Learning, Data Engineering & Cloud Analytics**
-
-👯 Open to collaborating on **Python, SQL, Power BI & Analytics Projects**
-
-🤔 Looking to contribute to **Open Source Data Projects**
-
 
 📈 Building interactive Excel dashboards 
 
