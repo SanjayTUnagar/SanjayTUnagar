@@ -224,8 +224,11 @@ Collection of SQL projects focused on solving real-world business problems using
 **✨ Highlights**
 
 📋 Complex Queries
+
 📊 KPI Reporting
+
 ⚡ Query Optimization
+
 📈 Business Insights
 
 **🛠 Tech Stack**
