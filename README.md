@@ -194,7 +194,7 @@ Business insights using SQL queries.
 <table>
 
 <tr>
-<td width="100%">
+<td width="50%">
 
 ### 📊 Certificate of Excel Dashboard by Microsoft | SimliLearn
 
@@ -203,9 +203,6 @@ Business insights using SQL queries.
 <p align="center">
 
 <img width="1754" height="1241" alt="Excel_Dashborad_Certificate" src="https://github.com/user-attachments/assets/086af81b-6ccf-4a77-965e-1caf1ea1e118" />
-
-
-<img src="https://streak-stats.demolab.com?user=SanjayTUnagar&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -228,6 +225,40 @@ Power BI Dashboard with KPI analysis, trend analysis and interactive filters.
 
 </td> 
 </tr>
+
+<tr>
+<td width="50%">
+
+### 📊 Certificate of Excel Dashboard by Microsoft | SimliLearn
+
+<br clear="both"/>
+
+<p align="center">
+
+<img width="1754" height="1241" alt="Excel_Dashborad_Certificate" src="https://github.com/user-attachments/assets/086af81b-6ccf-4a77-965e-1caf1ea1e118" />
+
+</p>
+
+Power BI Dashboard with KPI analysis, trend analysis and interactive filters.
+
+**Tech Stack**
+
+📈 Building interactive Excel dashboards 
+
+📊 Creating insightful charts and visualizations
+
+📌 Using Pivot Tables & Pivot Charts effectively 
+
+🎯 Applying Slicers and Filters for dynamic reporting 
+
+📉 Data analysis and business reporting 
+
+🚀 Presenting data in a clear and impactful way 
+
+
+</td> 
+</tr>
+
 </table>
 
 <!--🏅 Data Analytics Projects
