@@ -250,73 +250,8 @@ Collection of SQL projects focused on solving real-world business problems using
 
 
 
-<!-- <h1 align="center">🚀 Featured Projects</h1>
 
-<table>
 
-<tr>
-<td width="50%">
-
-### 📊 Sales Dashboard
-
-Power BI Dashboard with KPI analysis, trend analysis and interactive filters.
-
-**Tech Stack**
-
-- Power BI
-- Excel
-- DAX
-
-</td>
-
-<td width="50%">
-
-### 📈 HR Analytics Dashboard
-
-Employee Attrition & Performance Dashboard.
-
-**Tech Stack**
-
-- Power BI
-- SQL
-- Excel
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### 🐍 Python Data Analysis
-
-EDA using Pandas, NumPy and Matplotlib.
-
-**Tech Stack**
-
-- Python
-- Pandas
-- NumPy
-
-</td>
-
-<td>
-
-### 🗄 SQL Analysis
-
-Business insights using SQL queries.
-
-**Tech Stack**
-
-- SQL
-- MySQL
-
-</td>
-
-</tr>
-
-</table>-->
 
 <br clear="both"/>
 
@@ -352,9 +287,9 @@ Business insights using SQL queries.
 <!--                    🚀 KEY SKILLS GAINED                   -->
 <!-- ========================================================= -->
 
-<h2 align="center">
+<h1 align="center">
 🚀 Key Skills Gained
-</h2>
+</h1>
 
 <p align="center">
 <i>Building a strong foundation in Data Analytics, Business Intelligence, SQL, Excel, and Data Visualization.</i>
@@ -485,9 +420,9 @@ Applying analytical thinking to solve business problems and transform raw data i
 <!--                🌟 ACHIEVEMENT HIGHLIGHTS                  -->
 <!-- ========================================================= -->
 
-<h2 align="center">
+<h1 align="center">
 🌟 Achievement Highlights
-</h2>
+</h1>
 
 <table>
 
