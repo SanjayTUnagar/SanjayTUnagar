@@ -132,6 +132,7 @@
 Power BI dashboard designed to monitor **Sales KPIs, Revenue, Profit, Customer Insights, and Trend Analysis** through interactive visualizations.
 
 **✨ Highlights**
+
 📈 KPI Dashboard
 
 📊 Sales Trend Analysis
@@ -160,6 +161,7 @@ Power BI dashboard designed to monitor **Sales KPIs, Revenue, Profit, Customer I
 Employee Attrition Dashboard providing insights into workforce performance, retention, salary analysis, and employee demographics.
 
 **✨ Highlights**
+
 👨‍💼 Employee Insights
 
 📊 Attrition Analysis
@@ -191,6 +193,7 @@ Employee Attrition Dashboard providing insights into workforce performance, rete
 Exploratory Data Analysis (EDA) project using Python to clean, transform, visualize, and extract meaningful business insights.
 
 **✨ Highlights**
+
 📊 Data Cleaning
 
 📈 Exploratory Analysis
@@ -219,6 +222,7 @@ Exploratory Data Analysis (EDA) project using Python to clean, transform, visual
 Collection of SQL projects focused on solving real-world business problems using advanced SQL queries and performance optimization.
 
 **✨ Highlights**
+
 📋 Complex Queries
 📊 KPI Reporting
 ⚡ Query Optimization
