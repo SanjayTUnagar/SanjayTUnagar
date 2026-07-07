@@ -204,27 +204,35 @@ Business insights using SQL queries.
 ![Certified](https://img.shields.io/badge/Status-Certified-success?style=for-the-badge)
 
 </div>
+<br clear="both"/>
+<h1 align="center"> 📜 Microsoft SkillUp Certifications</h1>
 
-### 📜 Microsoft SkillUp Certifications
 
 | 🎓 Certification | 📅 Completed | 📝 Description |
 |-----------------|-------------|----------------|
 | **Data Analyst 101** | **05 July 2026** | Successfully completed the Microsoft SkillUp Data Analyst 101 program, building a strong foundation in **Data Analytics, Data Visualization, Business Intelligence, Excel, SQL, and analytical thinking**. |
 | **Excel Dashboard for Beginners** | **04 July 2026** | Completed hands-on training in creating **interactive Excel dashboards**, including charts, PivotTables, slicers, KPIs, conditional formatting, and data-driven reporting techniques. |
 
----
+<br clear="both"/>
+<h1 align="center"> 🚀 Key Skills Gained</h1>
 
-### 🚀 Key Skills Gained
+📊 Data Analysis Fundamentals
 
-- 📊 Data Analysis Fundamentals
-- 📈 Data Visualization
-- 📋 Interactive Excel Dashboards
-- 📑 Pivot Tables & Pivot Charts
-- 🎯 KPI Reporting
-- 📉 Business Intelligence Basics
-- 🗄 SQL Fundamentals
-- 📌 Data Cleaning & Preparation
-- 💡 Analytical & Problem-Solving Skills
+📈 Data Visualization
+
+📋 Interactive Excel Dashboards
+
+📑 Pivot Tables & Pivot Charts
+
+🎯 KPI Reporting
+
+📉 Business Intelligence Basics
+
+🗄 SQL Fundamentals
+
+📌 Data Cleaning & Preparation
+
+💡 Analytical & Problem-Solving Skills
 
 ---
 
