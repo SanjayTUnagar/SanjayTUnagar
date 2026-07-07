@@ -117,7 +117,32 @@
 
 </p>
 <br clear="both"/>
-<h1 align="center">🚀 Featured Projects</h1>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME/Sales-Dashboard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Sales-Dashboard&theme=github_dark"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME/HR-Analytics-Dashboard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=HR-Analytics-Dashboard&theme=github_dark"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME/Python-Data-Analysis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Python-Data-Analysis&theme=github_dark"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME/SQL-Analysis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=SQL-Analysis&theme=github_dark"/>
+</a>
+
+</p>
+
+
+
+<!-- <h1 align="center">🚀 Featured Projects</h1>
 
 <table>
 
@@ -183,7 +208,7 @@ Business insights using SQL queries.
 
 </tr>
 
-</table>
+</table>-->
 
 <br clear="both"/>
 
