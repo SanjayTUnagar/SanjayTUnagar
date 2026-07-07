@@ -347,7 +347,134 @@ Business insights using SQL queries.
 | **Excel Dashboard for Beginners** | **04 July 2026** | Completed hands-on training in creating **interactive Excel dashboards**, including charts, PivotTables, slicers, KPIs, conditional formatting, and data-driven reporting techniques. |
 
 <br clear="both"/>
-<h1 align="center"> 🚀 Key Skills Gained</h1>
+
+<!-- ===================================================== -->
+<!--              🚀 KEY SKILLS GAINED                     -->
+<!-- ===================================================== -->
+
+<h1 align="center">🚀 Key Skills Gained</h1>
+
+<p align="center">
+Building a strong foundation in <b>Data Analytics</b>, <b>Business Intelligence</b>, and <b>Data Visualization</b> through hands-on projects and industry-recognized certifications.
+</p>
+
+<table align="center">
+
+<tr>
+
+<td width="50%">
+
+### 📊 Data Analysis Fundamentals
+Understanding data collection, transformation, analysis, and interpretation for informed decision-making.
+
+**Skills**
+- 📈 Data Analysis
+- 📋 Data Exploration
+- 📊 Statistical Thinking
+- 🎯 Business Insights
+
+</td>
+
+<td width="50%">
+
+### 📉 Data Visualization
+Creating impactful dashboards and reports that communicate business performance effectively.
+
+**Skills**
+- 📊 Charts & Graphs
+- 📈 Dashboard Design
+- 📌 KPI Reporting
+- 📉 Storytelling with Data
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📄 Excel Analytics
+
+Building professional Excel dashboards and automating reports using advanced Excel features.
+
+**Skills**
+- 📑 Pivot Tables
+- 📊 Pivot Charts
+- ⚡ Power Query
+- 📅 Interactive Dashboards
+
+</td>
+
+<td width="50%">
+
+### 🗄 SQL Fundamentals
+
+Managing relational databases and extracting business insights using SQL.
+
+**Skills**
+- 🔍 Data Retrieval
+- 🔗 Joins
+- 📊 Aggregate Functions
+- ⚡ Query Optimization
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🧹 Data Cleaning & Preparation
+
+Preparing raw datasets for analysis using industry-standard data cleaning techniques.
+
+**Skills**
+- 🧹 Missing Values
+- 🔄 Data Transformation
+- ✅ Data Validation
+- 📦 Data Preparation
+
+</td>
+
+<td width="50%">
+
+### 💡 Business Intelligence
+
+Learning modern BI concepts to transform data into actionable insights.
+
+**Skills**
+- 📊 Power BI
+- 📈 KPI Dashboards
+- 📉 Business Reporting
+- 🎯 Decision Support
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+### 🏆 Analytical & Problem-Solving Skills
+
+- 💡 Critical Thinking
+- 🧠 Problem Solving
+- 📊 Business Analysis
+- 🚀 Decision Making
+- 🤝 Collaboration
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<!--<h1 align="center"> 🚀 Key Skills Gained</h1>
 
 <table>
 
@@ -393,7 +520,7 @@ Business insights using SQL queries.
 ✔ Continuously enhancing technical expertise through industry-recognized certifications.
 
 
-
+-->
 
 
 
