@@ -201,7 +201,9 @@ Business insights using SQL queries.
 <br clear="both"/>
 
 <p align="center">
-<img width="1551" height="1070" alt="IBM_Z_Operational_Log_Data_Analytics" src="https://github.com/user-attachments/assets/3edaed29-0bfc-4f4b-9d32-0ae74bc6d9db" />
+
+<img width="1754" height="1241" alt="Excel_Dashborad_Certificate" src="https://github.com/user-attachments/assets/086af81b-6ccf-4a77-965e-1caf1ea1e118" />
+
 
 <img src="https://streak-stats.demolab.com?user=SanjayTUnagar&theme=tokyonight&hide_border=true"/>
 
