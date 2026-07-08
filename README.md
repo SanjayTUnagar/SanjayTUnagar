@@ -158,7 +158,7 @@ An interactive **Hotel Booking Cancellation Dashboard** built in **Microsoft Exc
 <img src="https://img.shields.io/badge/Pivot_Table-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/Interactive_Dashboard-FF6F00?style=for-the-badge&logo=googledatastudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data_Visualization-4285F4?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Booking_Analysis-0066CC?style=for-the-badge&logo=bookstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Booking_Analysis-0066CC?style=for-the-badge&logo=bookstack&logoColor=white"/> 
 
 </p>
 
