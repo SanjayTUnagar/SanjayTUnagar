@@ -102,7 +102,7 @@
 <br clear="both"/>
 
 <p align="center">
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=SanjayTUnagar&theme=tokyonight&hide_border=true)
 <img src="https://streak-stats.demolab.com?user=SanjayTUnagar&theme=tokyonight&hide_border=true">
 
 </p>
