@@ -127,7 +127,7 @@
 
 <td width="50%" valign="top">
 
-### 📊 Sales Dashboard
+### 🏨 Hotel Booking Cancellation Dashboard | Excel + Power Query
 
 Power BI dashboard designed to monitor **Sales KPIs, Revenue, Profit, Customer Insights, and Trend Analysis** through interactive visualizations.
 
