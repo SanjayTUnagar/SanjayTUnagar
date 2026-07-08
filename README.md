@@ -129,25 +129,37 @@
 
 ### 🏨 Hotel Booking Cancellation Dashboard | Excel + Power Query
 
-Power BI dashboard designed to monitor **Sales KPIs, Revenue, Profit, Customer Insights, and Trend Analysis** through interactive visualizations.
+An interactive **Hotel Booking Cancellation Dashboard** built in **Microsoft Excel** using **Power Query, Pivot Tables, Pivot Charts, Slicers,** and Dashboard Design techniques.
 
 **✨ Highlights**
 
-📈 KPI Dashboard
+📥 Import and transform hotel booking data using Power Query
 
-📊 Sales Trend Analysis
+🧹 Automated data cleaning and preprocessing
 
-🎯 Interactive Filters
+📊 Interactive Excel dashboard with dynamic visualizations
 
-📅 Time Intelligence
+📈 Pivot Tables and Pivot Charts for summarized analysis
+
+🎛️ Slicers for filtering data by multiple dimensions
+
+🏨 Comparison between City Hotels and Resort Hotels
+
+📉 Monthly and yearly cancellation trends
  
 
 **🛠 Tech Stack**
 
 <p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏨_Hotel_Booking-Dashboard-0A9396?style=for-the-badge">
+<img src="https://img.shields.io/badge/Power_Query-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pivot_Table-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Interactive_Dashboard-FF6F00?style=for-the-badge&logo=googledatastudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Visualization-4285F4?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Booking_Analysis-0066CC?style=for-the-badge&logo=bookstack&logoColor=white"/>
+
 </p>
 
 🔗 **Repository:** [View Project](YOUR_REPOSITORY_LINK)
