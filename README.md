@@ -167,6 +167,37 @@ An interactive **Hotel Booking Cancellation Dashboard** built in **Microsoft Exc
 </td>
 
 <td width="50%" valign="top">
+### 🐍 Python Data Analysis
+
+Exploratory Data Analysis (EDA) project using Python to clean, transform, visualize, and extract meaningful business insights.
+
+**✨ Highlights**
+
+📊 Data Cleaning
+
+📈 Exploratory Analysis
+
+📉 Visualizations
+
+📑 Business Insights
+
+**🛠 Tech Stack**
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+</p>
+
+🔗 **Repository:** [View Project](YOUR_REPOSITORY_LINK)
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 📉 HR Analytics Dashboard
 
@@ -192,38 +223,7 @@ Employee Attrition Dashboard providing insights into workforce performance, rete
 
 🔗 **Repository:** [View Project](YOUR_REPOSITORY_LINK)
 
-</td>
 
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🐍 Python Data Analysis
-
-Exploratory Data Analysis (EDA) project using Python to clean, transform, visualize, and extract meaningful business insights.
-
-**✨ Highlights**
-
-📊 Data Cleaning
-
-📈 Exploratory Analysis
-
-📉 Visualizations
-
-📑 Business Insights
-
-**🛠 Tech Stack**
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-</p>
-
-🔗 **Repository:** [View Project](YOUR_REPOSITORY_LINK)
 
 </td>
 
