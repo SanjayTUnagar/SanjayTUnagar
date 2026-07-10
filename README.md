@@ -299,6 +299,16 @@ Collection of SQL projects focused on solving real-world business problems using
 
 <br clear="both"/>
 
+<h1 align="center"> 📜 IBM SkillUp Certifications</h1>
+
+
+| 🎓 Certification | 📅 Completed | 📝 Description |
+|-----------------|-------------|----------------|
+| **IBM Z Operational Log and Data Analytics** | **05 July 2026** | Successfully completed the IBM SkillsBuild certification, building expertise in **IBM Z mainframe technologies, operational log analysis, enterprise monitoring, data analytics, system diagnostics, event analysis, log management, operational intelligence, and performance optimization**. Developed a strong foundation in leveraging enterprise operational data to enhance **system reliability, troubleshooting, and data-driven decision-making**. |
+
+
+<br clear="both"/>
+
 <!-- ========================================================= -->
 <!--                    🚀 KEY SKILLS GAINED                   -->
 <!-- ========================================================= -->
