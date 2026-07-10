@@ -206,7 +206,7 @@ I'm thrilled to showcase my latest project, 🐍 Python Brilliant Quiz Champion!
 
 </p>
 
-🔗 **Repository:** [View Project](YOUR_REPOSITORY_LINK)
+🔗 **Repository:** [View Project]([YOUR_REPOSITORY_LINK](https://github.com/SanjayTUnagar/Kon_Banega_Python_Brilliant_Quize_Game.git))
 </td>
 
 </tr>
