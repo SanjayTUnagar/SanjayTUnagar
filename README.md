@@ -175,11 +175,17 @@ I'm thrilled to showcase my latest project, 🐍 Python Brilliant Quiz Champion!
 **✨ Highlights**
 
 ✅ Interactive command-line quiz game
+
 ✅ Multiple-choice Python programming questions
+
 ✅ Instant feedback for each answer
+
 ✅ Score tracking throughout the game
+
 ✅ Beginner-friendly and interview preparation focused
+
 ✅ Easy to customize by adding new questions and difficulty levels
+
 
 **🛠️ Technologies Used**
 
