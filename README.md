@@ -167,6 +167,7 @@ An interactive **Hotel Booking Cancellation Dashboard** built in **Microsoft Exc
 </td>
 
 <td width="50%" valign="top">
+ 
 ### 🐍 Python Data Analysis
 
 Exploratory Data Analysis (EDA) project using Python to clean, transform, visualize, and extract meaningful business insights.
