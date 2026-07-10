@@ -168,27 +168,36 @@ An interactive **Hotel Booking Cancellation Dashboard** built in **Microsoft Exc
 
 <td width="50%" valign="top">
  
-### 🐍 Python Data Analysis
+### 🐍 Python Brilliant Quiz Champion!
 
-Exploratory Data Analysis (EDA) project using Python to clean, transform, visualize, and extract meaningful business insights.
+I'm thrilled to showcase my latest project, 🐍 Python Brilliant Quiz Champion! — an interactive command-line quiz game built entirely with Python.
 
 **✨ Highlights**
 
-📊 Data Cleaning
+✅ Interactive command-line quiz game
+✅ Multiple-choice Python programming questions
+✅ Instant feedback for each answer
+✅ Score tracking throughout the game
+✅ Beginner-friendly and interview preparation focused
+✅ Easy to customize by adding new questions and difficulty levels
 
-📈 Exploratory Analysis
+**🛠️ Technologies Used**
 
-📉 Visualizations
+🐍 Python 3
 
-📑 Business Insights
+💻 Visual Studio Code
+
+🖥️ Command Line Interface (CLI)
+
+📂 Git & GitHub
 
 **🛠 Tech Stack**
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </p>
 
 🔗 **Repository:** [View Project](YOUR_REPOSITORY_LINK)
