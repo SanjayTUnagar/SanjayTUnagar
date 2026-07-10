@@ -267,7 +267,7 @@ Collection of SQL projects focused on solving real-world business problems using
 
 <br clear="both"/>
 
-<h1 align="center"> 🏆 Certifications & Achievements</h1>
+<h1 align="center"> 🏆 Certifications & Achievements 🏆</h1>
 
 <p align="center">
  <!-- <img src="certificates/Data_Analyst_Certificate.jpg" width="420" alt="Data Analyst 101 Certificate"/> -->
