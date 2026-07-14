@@ -331,6 +331,7 @@ Collection of SQL projects focused on solving real-world business problems using
 ![Simplilearn](https://img.shields.io/badge/Simplilearn-SkillUp-orange?style=for-the-badge)
 ![Certified](https://img.shields.io/badge/Status-Certified-success?style=for-the-badge)
 ![IBM Certified](https://img.shields.io/badge/IBM-Certified-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Python Certified](https://img.shields.io/badge/OneRoadmap-Python_Certified-6F42C1?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 <br clear="both"/>
