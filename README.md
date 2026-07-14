@@ -294,6 +294,9 @@ Collection of SQL projects focused on solving real-world business problems using
 
  <img width="420" alt="IBM_Z_Operational_Log_Data_Analytics" src="https://github.com/user-attachments/assets/55f7d981-6571-4ace-9752-73261b0c88c4" />
 
+ <img width="420" alt="Python-Certificate" src="https://github.com/user-attachments/assets/ac919187-a08a-4891-a4c7-459c6563b1ce" />
+
+
 </p>
 
 <div align="center">
