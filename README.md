@@ -286,15 +286,41 @@ Collection of SQL projects focused on solving real-world business problems using
 <h1 align="center"> 🏆 Certifications & Achievements 🏆</h1>
 
 <p align="center">
+
+ <table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/CERTIFICATE-1" width="450" alt="Excel Dashboard Certificate">
+    </td>
+    <td width="30"></td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/CERTIFICATE-2" width="450" alt="Data Analyst 101 Certificate">
+    </td>
+  </tr>
+
+  <tr>
+    <td height="25"></td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/CERTIFICATE-3" width="450" alt="IBM SkillsBuild Certificate">
+    </td>
+    <td width="30"></td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/CERTIFICATE-4" width="450" alt="Python Certificate">
+    </td>
+  </tr>
+</table>
  <!-- <img src="certificates/Data_Analyst_Certificate.jpg" width="420" alt="Data Analyst 101 Certificate"/> -->
- <img alt="Excel_Dashborad_Certificate" src="https://github.com/user-attachments/assets/086af81b-6ccf-4a77-965e-1caf1ea1e118" width="420" />
+ <!--<img alt="Excel_Dashborad_Certificate" src="https://github.com/user-attachments/assets/086af81b-6ccf-4a77-965e-1caf1ea1e118" width="420" />
   
 <img width="420" alt="Data_Analyst_Certificate" src="https://github.com/user-attachments/assets/07ad5c7b-41c4-4475-ba7a-3ffca3de3133" />
  <!-- <img src="certificates/Excel_Dashboard_Certificate.jpg" width="420" alt="Excel Dashboard for Beginners Certificate"/> -->
 
  <img width="420" alt="IBM_Z_Operational_Log_Data_Analytics" src="https://github.com/user-attachments/assets/55f7d981-6571-4ace-9752-73261b0c88c4" />
 
- <img width="420" alt="Python-Certificate" src="https://github.com/user-attachments/assets/ac919187-a08a-4891-a4c7-459c6563b1ce" />
+ <img width="420" alt="Python-Certificate" src="https://github.com/user-attachments/assets/ac919187-a08a-4891-a4c7-459c6563b1ce" />-->
 
 
 </p>
