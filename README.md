@@ -329,7 +329,7 @@ Collection of SQL projects focused on solving real-world business problems using
 
 | 🎓 Certification | 📅 Completed | 📝 Description |
 |-----------------|-------------|----------------|
-| **Roadmap Skill Certification Test in Python!** | **15 July 2026** | I'm thrilled to announce that I've successfully completed and passed the **One Roadmap Skill Certification Test in Python!** 🏆|
+| **Certification Test in Python!** | **15 July 2026** | I'm thrilled to announce that I've successfully completed and passed the **One Roadmap Skill Certification Test in Python!** 🏆|
 
 
 
