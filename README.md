@@ -299,7 +299,7 @@ Collection of SQL projects focused on solving real-world business problems using
   </tr>
 
   <tr>
-    <td height="25"></td>
+    <td height="25"></td> 
   </tr>
 
   <tr>
