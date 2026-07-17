@@ -266,9 +266,10 @@ Collection of SQL projects focused on solving real-world business problems using
 **🛠 Tech Stack**
 
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Database_Design-1E88E5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
- <img src="https://img.shields.io/badge/Hotel_Management-1565C0?style=for-the-badge&logo=hotel&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Hotel_Management-1565C0?style=for-the-badge&logo=hotel&logoColor=white"/
+  <img src="https://img.shields.io/badge/Normalization-2E7D32?style=for-the-badge"/>>
 </p>
 
 🔗 **Repository:** [View Project](YOUR_REPOSITORY_LINK)
