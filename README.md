@@ -127,7 +127,7 @@
 
 <td width="50%" valign="top">
 
-### 🏨 Hotel Booking Cancellation Dashboard | Excel + Power Query
+### 🏨 Hotel Booking Dashboard | Excel + Power Query
 
 An interactive **Hotel Booking Cancellation Dashboard** built in **Microsoft Excel** using **Power Query, Pivot Tables, Pivot Charts, Slicers,** and Dashboard Design techniques.
 
@@ -245,19 +245,23 @@ Employee Attrition Dashboard providing insights into workforce performance, rete
 
 <td width="50%" valign="top">
 
-### 🗄 SQL Business Analysis
+### 🗄 Hotel Booking Management System - SQL Project
 
 Collection of SQL projects focused on solving real-world business problems using advanced SQL queries and performance optimization.
 
 **✨ Highlights**
 
-📋 Complex Queries
+📋 Manage hotel room bookings
 
-📊 KPI Reporting
+📊 Store customer information
 
-⚡ Query Optimization
+⚡ Track room availability
 
-📈 Business Insights
+👨‍💼 Manage employees
+
+📈 Process payments
+
+
 
 **🛠 Tech Stack**
 
