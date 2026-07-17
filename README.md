@@ -268,6 +268,7 @@ Collection of SQL projects focused on solving real-world business problems using
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+ <img src="https://img.shields.io/badge/Hotel_Management-1565C0?style=for-the-badge&logo=hotel&logoColor=white"/>
 </p>
 
 🔗 **Repository:** [View Project](YOUR_REPOSITORY_LINK)
