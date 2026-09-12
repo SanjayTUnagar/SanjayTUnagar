@@ -162,7 +162,7 @@ An interactive **Hotel Booking Cancellation Dashboard** built in **Microsoft Exc
 
 </p>
 
-🔗 **Repository:** [View Project](YOUR_REPOSITORY_LINK)
+🔗 **Repository:** [View Project](https://github.com/SanjayTUnagar/HR-Analytics-Dashboard-Power-Bi.git)
 
 </td>
 
