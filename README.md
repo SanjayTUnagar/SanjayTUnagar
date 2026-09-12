@@ -129,7 +129,7 @@
 
 ### 🏨 Retail Sales Dashboard | Microsoft Excel + Power Query
 
-An interactive **Hotel Booking Cancellation Dashboard** built in **Microsoft Excel** using **Power Query, Pivot Tables, Pivot Charts, Slicers,** and Dashboard Design techniques.
+An interactive **Retail Sales Dashboard** built in Microsoft Excel to analyze sales performance, customer purchasing behavior, product trends, and regional performance. 
 
 **✨ Highlights**
 
