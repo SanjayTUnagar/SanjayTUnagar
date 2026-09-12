@@ -572,11 +572,11 @@ Continuously improving technical expertise through certifications, projects, and
 
 <p align="center">
 
-<a href="#" target="_blank">
+<a href="https://www.linkedin.com/in/sanjayunagar/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="#">
+<a href="https://sanjayunagar.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
 </a>
 
