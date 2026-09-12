@@ -237,7 +237,7 @@ Employee Attrition Dashboard providing insights into workforce performance, rete
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
-🔗 **Repository:** [View Project](YOUR_REPOSITORY_LINK)
+🔗 **Repository:** [View Project](https://github.com/SanjayTUnagar/HR-Analytics-Dashboard-Power-Bi.git )
 
 
 
