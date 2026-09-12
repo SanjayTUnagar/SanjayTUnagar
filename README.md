@@ -127,42 +127,43 @@
 
 <td width="50%" valign="top">
 
-### 🏨 Hotel Booking Dashboard | Excel + Power Query
+### 🏨 Retail Sales Dashboard | Microsoft Excel + Power Query
 
 An interactive **Hotel Booking Cancellation Dashboard** built in **Microsoft Excel** using **Power Query, Pivot Tables, Pivot Charts, Slicers,** and Dashboard Design techniques.
 
 **✨ Highlights**
 
-📥 Import and transform hotel booking data using Power Query
+📊 Interactive Retail Sales Dashboard built using Microsoft Excel
 
-🧹 Automated data cleaning and preprocessing
+📈 Analyzed sales, profit, quantity, and discount performance
 
-📊 Interactive Excel dashboard with dynamic visualizations
+🔍 Created KPI metrics for quick business performance tracking
 
-📈 Pivot Tables and Pivot Charts for summarized analysis
+📅 Analyzed monthly and regional sales trends
 
-🎛️ Slicers for filtering data by multiple dimensions
+🛍️ Identified top-performing products and categories
 
-🏨 Comparison between City Hotels and Resort Hotels
+🎛️ Used Pivot Tables, Pivot Charts, Slicers, and Filters for interactive analysis
 
-📉 Monthly and yearly cancellation trends
+💡 Generated actionable business insights from retail sales data
+
+📋 Designed a clean and user-friendly dashboard for business reporting
  
 
 **🛠 Tech Stack**
 
 <p>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/🏨_Hotel_Booking-Dashboard-0A9396?style=for-the-badge">
-<img src="https://img.shields.io/badge/Power_Query-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pivot_Table-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Interactive_Dashboard-FF6F00?style=for-the-badge&logo=googledatastudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data_Visualization-4285F4?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Booking_Analysis-0066CC?style=for-the-badge&logo=bookstack&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Pivot%20Tables-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Pivot%20Charts-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Data%20Analysis-4285F4?style=for-the-badge"/> 
+<img src="https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge"/> 
+<img src="https://img.shields.io/badge/Dashboard-6A1B9A?style=for-the-badge"/> 
 
 </p>
 
-🔗 **Repository:** [View Project](https://github.com/SanjayTUnagar/HR-Analytics-Dashboard-Power-Bi.git)
+🔗 **Repository:** [View Project](https://github.com/SanjayTUnagar/Retail-Sales-Dashboard-Excel.git)
 
 </td>
 
